@@ -1,2 +1,4 @@
 # demoRepo
-this is a demo of making a repo which i am learning from apna collage , shradha mam in yt channel
+first repo on github
+learned by shadha mam
+author:anurag sahu
